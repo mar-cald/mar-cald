@@ -9,6 +9,7 @@ University of **Padova**, Italy.
 
 I'm a member of [Psicostat](https://psicostat.dpss.psy.unipd.it/), an interdisciplinary
 research group working at the intersection of **psychology** and **statistics**.
+
 We also offer [short courses and workshops](https://psicostat.github.io/psicostat-teaching/)
 on quantitative methods.
 
