@@ -13,12 +13,5 @@ research group working at the intersection of **psychology** and **statistics**.
 We also offer [short courses and workshops](https://psicostat.github.io/psicostat-teaching/)
 on quantitative methods.
 
-### 📦 Projects
 
-**[multibayes](https://github.com/mar-cald/multibayes)**: an R package for
-bayesian multiplicity "adjustments".
-
-### 📫 Find me
-
-[Website](https://mar-cald.github.io/) ·  [ORCID](https://orcid.org/0009-0005-5668-5162) · ✉️ margherita.calderan@unipd.it
 
