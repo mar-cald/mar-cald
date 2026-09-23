@@ -14,8 +14,8 @@ on quantitative methods.
 
 ### 📦 Projects
 
-**[multibayes](https://github.com/USERNAME/multibayes)**: an R package for
-[bayesian multiplicity "adjustments"].
+**[multibayes](https://github.com/mar-cald/multibayes)**: an R package for
+bayesian multiplicity "adjustments".
 
 ### 📫 Find me
 
